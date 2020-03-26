@@ -1,0 +1,5 @@
+^bcr\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^codecov\.yml$
+^LICENSE\.md$
